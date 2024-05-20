@@ -21,10 +21,11 @@ The data was recieved via direct drive link
 
 ### Analysis
 
-- the analysis was "usrs" centric to comply with the bussines task![Uploading Screenshot (32).png…]()
+- the analysis was "usrs" centric to comply with the bussines task
 
 - using SQL built Queries i was able to extract valuable data
 
 ### Share
 
 Using power BI i was able to generate the following
+![Screenshot (32)](https://github.com/AbdelrahmanHemdan17/Digital-Campaign-Performance/assets/161534505/f442ba3d-7d34-4b91-a0d4-85cc840c11c7)
